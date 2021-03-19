@@ -1,7 +1,6 @@
 # animation_play
 
-A new Flutter application.
-
+This project just show some complex animations which is done using some basic flutter animation techniques
 ## Getting Started
 
 This project is a starting point for a Flutter application.
